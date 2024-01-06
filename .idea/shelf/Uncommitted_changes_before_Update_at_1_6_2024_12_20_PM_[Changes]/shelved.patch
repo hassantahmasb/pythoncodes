@@ -1,0 +1,9 @@
+Index: readmefile.txt.txt
+===================================================================
+diff --git a/readmefile.txt.txt b/readmefile.txt.txt
+deleted file mode 100644
+--- a/readmefile.txt.txt	(revision 58103c8ca9bcabaa030d85392df69eef2dc9b8ee)
++++ /dev/null	(revision 58103c8ca9bcabaa030d85392df69eef2dc9b8ee)
+@@ -1,1 +0,0 @@
+-Hello
+\ No newline at end of file
